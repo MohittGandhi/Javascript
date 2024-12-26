@@ -16,3 +16,13 @@ let stringnumber = String(somenumber);
 
 console.log(stringnumber);
 console.log(typeof stringnumber);
+
+let value = 3
+let negvalue = -value
+console.log(negvalue)
+console.log(2**2) //2raise o the power 2
+
+console.log("1" +2)
+console.log(1+"2")
+console.log("1"+2+2)
+console.log(1+2+"2")
